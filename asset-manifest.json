@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pieChartApp_React/static/css/main.69615851.chunk.css",
+    "main.js": "/pieChartApp_React/static/js/main.603fe4df.chunk.js",
+    "main.js.map": "/pieChartApp_React/static/js/main.603fe4df.chunk.js.map",
+    "runtime-main.js": "/pieChartApp_React/static/js/runtime-main.c2489708.js",
+    "runtime-main.js.map": "/pieChartApp_React/static/js/runtime-main.c2489708.js.map",
+    "static/js/2.a6663522.chunk.js": "/pieChartApp_React/static/js/2.a6663522.chunk.js",
+    "static/js/2.a6663522.chunk.js.map": "/pieChartApp_React/static/js/2.a6663522.chunk.js.map",
+    "index.html": "/pieChartApp_React/index.html",
+    "precache-manifest.d7c16f2bbbd07eb55c53a9f7dc2fab3d.js": "/pieChartApp_React/precache-manifest.d7c16f2bbbd07eb55c53a9f7dc2fab3d.js",
+    "service-worker.js": "/pieChartApp_React/service-worker.js",
+    "static/css/main.69615851.chunk.css.map": "/pieChartApp_React/static/css/main.69615851.chunk.css.map",
+    "static/js/2.a6663522.chunk.js.LICENSE.txt": "/pieChartApp_React/static/js/2.a6663522.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/pieChartApp_React/static/media/18917.70fd4015.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2489708.js",
+    "static/js/2.a6663522.chunk.js",
+    "static/css/main.69615851.chunk.css",
+    "static/js/main.603fe4df.chunk.js"
+  ]
+}
