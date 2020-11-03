@@ -1,0 +1,18 @@
+.header {
+    background-color: cornflowerblue;
+}
+
+.linkToPages {
+    padding: 0 2vw;
+    font-size: 2vw;
+    text-decoration: none;
+    color: cornsilk;    
+}
+
+.linkToPages:hover {
+    color: peachpuff;
+}
+
+.activeLink {
+    font-weight: bold;
+}

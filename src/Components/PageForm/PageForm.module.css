@@ -1,0 +1,19 @@
+.pageForm {
+    padding-top: 3vw;
+}
+
+.buttonAddNewPosition {
+    color: cornsilk;
+    background-color: cornflowerblue;
+    padding: 1vw;
+    font-size: 1.4vw;
+    border-radius: 0.5vw;
+    cursor: pointer;
+    margin-bottom: 2vw;
+    font-family: "MyFont";
+}
+
+.buttonAddNewPosition:hover {
+    color: cornflowerblue;
+    background-color: cornsilk; 
+}

@@ -1,0 +1,13 @@
+.unit {
+    fill: none;
+    stroke-width: 1vw;
+    cursor: pointer;    
+    animation-name: render;
+    animation-duration: 1s;
+    transition-property: all; 
+    transition-duration: 1s;
+}
+  
+.unit:hover {
+    opacity: 0.5;
+}

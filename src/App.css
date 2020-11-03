@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'MyFont';
+  src: local('MyFont'), url(./fonts/18917.ttf) format('woff');
+}
+
+.App {
+  text-align: center;
+  font-family: "MyFont";
+}
