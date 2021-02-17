@@ -9,6 +9,8 @@ The following technologies were used:
 * React
 * CSS (modules)
 
+**Form page:**
+
 ![Безымянный](https://user-images.githubusercontent.com/72506172/108226883-f6aac180-7145-11eb-86cb-e008b57b3c2e.png)
 
 [Demo](https://desmond93.github.io/pieChartApp_React/)
